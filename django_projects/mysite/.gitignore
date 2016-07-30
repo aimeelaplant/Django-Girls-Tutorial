@@ -1,0 +1,5 @@
+.gitignore
+.idea/*
+static/*
+db.sqlite3
+mysite.iml
