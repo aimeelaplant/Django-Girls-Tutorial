@@ -1,0 +1,5 @@
+.gitignore
+/django_projects/mysite/.static/*
+/django_projects/mysite/.db.sqlite3
+/django_projects/mysite/.mysite.iml
+/django_projects/mysite/.idea/*
